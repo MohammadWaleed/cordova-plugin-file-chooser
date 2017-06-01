@@ -1,5 +1,7 @@
 Cordova FileChooser Plugin
 
+The Plugin now works with cordova 7
+
 Requires Cordova >= 2.8.0
 
 Install with Cordova CLI
